@@ -27,5 +27,5 @@ Currently building projects and learning how real-world open-source codebases wo
 
 ## Connect
 
-- **Portfolio** (yashvats.vercel.app)
+- **Portfolio:** [yashvats.vercel.app](https://yashvats.vercel.app)
 - **LinkedIn:** [Yash Kumar Vats](https://www.linkedin.com/in/yash-kumar-vats-28b856327/)
