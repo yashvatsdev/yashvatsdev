@@ -13,7 +13,7 @@ Currently building projects and learning how real-world open-source codebases wo
 
 ## Tech Stack
 
-**Languages:** C++, JavaScript, SQL  
+**Languages:** C++, C, JavaScript, MySQL  
 **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, PostgreSQL  
