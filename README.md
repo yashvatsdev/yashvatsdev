@@ -23,8 +23,6 @@ Currently building projects and learning how real-world open-source codebases wo
 
 **CodeLens** — Developer-focused tool for understanding and working with code.
 
-**ResumeMatch** — Resume analysis and job-requirement matching tool.
-
 ## Connect
 
 - **Portfolio:** [yashvats.vercel.app](https://yashvats.vercel.app)
