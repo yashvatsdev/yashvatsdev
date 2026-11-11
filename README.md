@@ -4,7 +4,7 @@ Second-year Computer Science student at **Manipal University Jaipur**, intereste
 
 Currently building projects and learning how real-world open-source codebases work.
 
-## About Me
+## About Me 
 
 - Building full-stack applications with **React, Next.js, Node.js & Express.js**
 - Strongest in **C++ & DSA**
